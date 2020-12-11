@@ -1,4 +1,4 @@
-Encryped-PE-Loader
+Encrypted-PE-Loader
 =================
 
 Original code base by aaaddress1 (https://github.com/aaaddress1/RunPE-In-Memory)
@@ -11,3 +11,4 @@ This project is added below feature:
 * Exe name mangling
 * Encrypted PE loading
 
+![](demo.png)
